@@ -51,7 +51,7 @@ This Python project serves as a dictionary assistant that helps users find defin
    Type a word to get its definition. The assistant will search its dictionary files and read out the definition if found.
 
 
-```
+
 
 ## Contributing
 
