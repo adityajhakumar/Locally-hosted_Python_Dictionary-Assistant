@@ -1,7 +1,7 @@
 
 # Python Dictionary Assistant
 
-![Dictionary Assistant Logo]
+
 
 ## Overview
 
@@ -50,25 +50,8 @@ This Python project serves as a dictionary assistant that helps users find defin
 
    Type a word to get its definition. The assistant will search its dictionary files and read out the definition if found.
 
-## File Structure
 
 ```
-your_dictionary_assistant/
-│
-├── main.py           # Main Python script
-├── README.md         # This README file
-├── LICENSE           # License file (Apache License 2.0)
-├── dictionaries/
-   ├── A.csv         # Example dictionary CSV files
-   ├── B.csv
-   ├── ...
-   └── Z.csv
-
-```
-
-## Example
-
-![Example Usage]
 
 ## Contributing
 
@@ -80,10 +63,3 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-### Customize this README
-
-- Replace `images/dictionary_assistant_logo.png` with your project's logo image file path.
-- Add more specific details about your project structure, installation process, or any additional features.
-- Include more images or diagrams to illustrate usage or architecture if necessary.
-
-This README template provides a structured outline to showcase your Python dictionary assistant project effectively.
